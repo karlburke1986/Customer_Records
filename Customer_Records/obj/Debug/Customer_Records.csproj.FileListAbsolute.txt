@@ -1,0 +1,9 @@
+E:\Customer_Records\Customer_Records\bin\Debug\Customer_Records.exe.config
+E:\Customer_Records\Customer_Records\bin\Debug\Customer_Records.exe
+E:\Customer_Records\Customer_Records\bin\Debug\Customer_Records.pdb
+E:\Customer_Records\Customer_Records\bin\Debug\Newtonsoft.Json.dll
+E:\Customer_Records\Customer_Records\bin\Debug\Newtonsoft.Json.xml
+E:\Customer_Records\Customer_Records\obj\Debug\Customer_Records.csprojResolveAssemblyReference.cache
+E:\Customer_Records\Customer_Records\obj\Debug\Customer_Records.csproj.CoreCompileInputs.cache
+E:\Customer_Records\Customer_Records\obj\Debug\Customer_Records.exe
+E:\Customer_Records\Customer_Records\obj\Debug\Customer_Records.pdb
